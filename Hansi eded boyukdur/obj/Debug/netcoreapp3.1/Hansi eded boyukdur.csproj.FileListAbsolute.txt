@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\Hansi eded boyukdur\Hansi eded boyukdur\bin\Debug\netcoreapp3.1\Hansi eded boyukdur.exe
+C:\Users\ilkin\source\repos\Hansi eded boyukdur\Hansi eded boyukdur\bin\Debug\netcoreapp3.1\Hansi eded boyukdur.deps.json
+C:\Users\ilkin\source\repos\Hansi eded boyukdur\Hansi eded boyukdur\bin\Debug\netcoreapp3.1\Hansi eded boyukdur.runtimeconfig.json
+C:\Users\ilkin\source\repos\Hansi eded boyukdur\Hansi eded boyukdur\bin\Debug\netcoreapp3.1\Hansi eded boyukdur.runtimeconfig.dev.json
+C:\Users\ilkin\source\repos\Hansi eded boyukdur\Hansi eded boyukdur\bin\Debug\netcoreapp3.1\Hansi eded boyukdur.dll
+C:\Users\ilkin\source\repos\Hansi eded boyukdur\Hansi eded boyukdur\bin\Debug\netcoreapp3.1\Hansi eded boyukdur.pdb
+C:\Users\ilkin\source\repos\Hansi eded boyukdur\Hansi eded boyukdur\obj\Debug\netcoreapp3.1\Hansi eded boyukdur.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\Hansi eded boyukdur\Hansi eded boyukdur\obj\Debug\netcoreapp3.1\Hansi eded boyukdur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\Hansi eded boyukdur\Hansi eded boyukdur\obj\Debug\netcoreapp3.1\Hansi eded boyukdur.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\Hansi eded boyukdur\Hansi eded boyukdur\obj\Debug\netcoreapp3.1\Hansi eded boyukdur.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\Hansi eded boyukdur\Hansi eded boyukdur\obj\Debug\netcoreapp3.1\Hansi eded boyukdur.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\Hansi eded boyukdur\Hansi eded boyukdur\obj\Debug\netcoreapp3.1\Hansi eded boyukdur.dll
+C:\Users\ilkin\source\repos\Hansi eded boyukdur\Hansi eded boyukdur\obj\Debug\netcoreapp3.1\Hansi eded boyukdur.pdb
+C:\Users\ilkin\source\repos\Hansi eded boyukdur\Hansi eded boyukdur\obj\Debug\netcoreapp3.1\Hansi eded boyukdur.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hansi eded boyukdur/1.0.0": {
+        "runtime": {
+          "Hansi eded boyukdur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hansi eded boyukdur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
